@@ -1,0 +1,1 @@
+AI-powered question-answering system leveraging LangChain frameworks for Retrieval-Augmented Generation (RAG) and agent-based architectures, integrating FAISS, Hugging Face embeddings, and Groq LLMs for dynamic, context-aware responses.
